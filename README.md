@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/4sbklcQ0EXc)
+[Live Demo](https://realtime-spotify-clone-etp4.onrender.com)
 
 About This Course:
 
