@@ -1,7 +1,5 @@
 <h1 align="center">Realtime Spotify Application ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
 [Live Demo](https://realtime-spotify-clone-etp4.onrender.com)
 
 About This Course:
