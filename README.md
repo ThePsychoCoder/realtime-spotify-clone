@@ -2,7 +2,7 @@
 
 [Live Demo](https://realtime-spotify-clone-etp4.onrender.com)
 
-About This Course:
+About This:
 
 -   🎸 Listen to music, play next and previous songs
 -   🔈 Update the volume with a slider
